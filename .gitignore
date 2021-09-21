@@ -1,0 +1,6 @@
+dist
+.idea
+config.json
+.husky/_
+node_modules
+.env
