@@ -40,7 +40,7 @@
 		"google-it": "^1.6.2",
 		"imageapi.js": "^1.6.1",
 		"leven": "^3.1.0",
-		"mathjs": "^9.4.4",
+		"mathjs": "^9.4.5",
 		"moment": "^2.29.1",
 		"mongoose": "^5.13.7",
 		"ms": "^2.1.3",
