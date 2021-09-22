@@ -1333,10 +1333,10 @@ discord-buttons@^4.0.0:
   resolved "https://registry.yarnpkg.com/discord-buttons/-/discord-buttons-4.0.0.tgz#0068ae5cc18cdd30112fca19b4b4c453ccc2ac73"
   integrity sha512-E/eQX4Ktj7nKwNDsTfCezBNCu73FtPWJfQcpKohfl0jct/ucMUO+7uhL2MhGsZr4SCfojk7OzccAznuntB564w==
 
-discord-hangman@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/discord-hangman/-/discord-hangman-1.2.0.tgz#5408b4c0a30ae66c32944cf232325438ebb15f57"
-  integrity sha512-qasHBIuf9z7V2dAmdp3l9xUZxLsxgJxeNsO00C3FlNs7zH+WiJiYTfQF3+uH/iy3WvoXymiA8xlgfgNvzw+VUA==
+discord-hangman@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/discord-hangman/-/discord-hangman-1.2.2.tgz#b421cfdb3370fbbfdef26dcd0c7e1d935f985a49"
+  integrity sha512-wLwXEp8YJyL9DXQxacSnyfHJ8QLgIqMV2lZW0/iNQFTrHf3ttGZw6rhgX+qFYgAucIlMGB3MWEXRHsmCSJErpw==
   dependencies:
     discord.js "^12.5.1"
     random-word "^2.0.0"
