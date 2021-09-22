@@ -17,11 +17,6 @@ export const helpAsserts = [
         "emoji": "<:ban_hammer:831919397437702174>"
     },
     {
-        "name": "Music",
-        "number": MusicCommands.length,
-        "emoji": ":musical_note:"
-    },
-    {
         "name": "Events",
         "number": EventsCommands.length,
         "emoji": ":checkered_flag:"
