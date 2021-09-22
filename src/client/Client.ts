@@ -22,8 +22,6 @@ import { Config } from '../interfaces/Config';
 import { ReactionRoleManager } from "discord.js-collector"
 import EventEmitter from 'events';
 import Nuggies from 'nuggies'
-import { formatNumber } from '../utils/functions';
-import { readdirSync } from 'fs';
 
 Nuggies.connect(process.env.MONGO_URL)
 
