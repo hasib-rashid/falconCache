@@ -1168,10 +1168,10 @@ destroy@~1.0.4:
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
-deta@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/deta/-/deta-1.0.0.tgz#cbe37745b1b40f4fecdd4fb073fbd6358d7759a7"
-  integrity sha512-w9t/oXkpbHzJTtuTW47C9KQUkeE8KUMuta2I1m7FcopTRi5uB+NINFRdEjgZq6qWt6kDCDiZT0GIyOYOhyYGzw==
+deta@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/deta/-/deta-1.0.2.tgz#48cef8975581db7e656b13faeb92a28ef60e1c77"
+  integrity sha512-VsUuiXrB8AqjFuhtD9/quD/4E2tKK2cKMGHjmny9//hTWb5jSSPRCn2A9wkFcOQyK0YY+rt7RhQKTrUmw90bKQ==
   dependencies:
     node-fetch "^2.6.1"
 
